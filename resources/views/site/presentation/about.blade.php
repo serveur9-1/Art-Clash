@@ -136,7 +136,6 @@
                         <img src="{{ asset('/assets/img/bg-img/presentation.png') }}" alt="">
                     </div>
                     <div class="about-thumb mb-80 wow fadeInUp" data-wow-delay="300ms">
-                        <img src="{{ asset('/assets/img/bg-img/follown.png') }}" alt="">
                         <img src="{{ asset('/assets/img/bg-img/adc.png') }}" alt="">
                     </div>
                 </div>
@@ -147,7 +146,7 @@
                         <p class="wow fadeInUp" data-wow-delay="300ms">« ART’CLASH » est un évent,une lucarne visant à promouvoir l’art et la culture africaine dans son ensemble à travers la découverte de talents et la valorisation de ses acteurs : c’est un évènement de remise de distinctions. En effet, « ART’CLASH » est une plateforme d’expression artistique où acteurs des arts se défieront, par catégorie (discipline artistique) autour d’un thème central en rapport avec l’actualité. C’est donc une compétition à l’issue de laquelle les meilleures œuvres seront primées. « ART’CLASH » est une initiative de :
 
                             <ul class="" style="color: white;">
-                                <li> * La <b>compagnie FOLLOWN</b>  (le juste-mot en malinké) une troupe artistique ivoirienne officiant dans le théâtre et le cinéma en Allemagne précisément à Hambourg.</li> <br>
+                                
                                 <li> * <b>AFRICA DREAM CONCEPT</b> structure de communication, évènementiel et production audiovisuelle.</li>
                             </ul>
                         </p>
